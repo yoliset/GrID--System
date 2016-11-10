@@ -6,7 +6,7 @@ header {
 }
 .contenedor
 {
-    width: 940px;
+    width: 1250px;
     margin: 0 auto;
     
 }
@@ -30,11 +30,10 @@ header .lis-menu li a{
     margin-top: 40px;
     text-decoration: none;
     margin-left: 3px;
-    font-size: 15px
+    font-size: 20px
     
 }
 
-}
 /* lis episodio */
 .lis-episodio {
     
@@ -42,7 +41,7 @@ header .lis-menu li a{
 .contenedor1{
     background-color: rgba(193, 193, 193, 0.76);
     padding-bottom: 30px;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 .row{
     margin-left: 15px;
@@ -50,7 +49,7 @@ header .lis-menu li a{
 }
     
 .lis-episodio .lis-episodio img{
-    width: 200px;
+    width: 280px;
     position: relative;
     border: 1px solid white;
     padding: 2px;
@@ -79,12 +78,12 @@ header .lis-menu li a{
 }
 .lis-contenido li {
     display: inline-block;
-    width: 100px;
+    width: 120px;
     margin: 0 10px 10px 0;
     vertical-align: top;
 }
 .lis-contenido li img{
-    width: 100px;
+    width: 120px;
     border: 2px solid #333;
     padding: 4px;
     margin-top: 20px;
@@ -113,13 +112,11 @@ body {
 .nave ul li img {
     width: 20px;
 }
-.mundo p{
+.mundo {
     padding: 5px;
-    color: blue;
-    text-align: center;
-    
-    margin left: 40px;
+    margin-left: 830px;
     margin-right: 50px;
+    margin-top: 220px;    
 }
 .nave ul li {
     color: blue;
@@ -136,7 +133,7 @@ body {
     padding: 2px;
     font-size: 13px;
     font-family: arial;
-    text-align: justify;
+    text-align: center;
 
         
 }
