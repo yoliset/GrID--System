@@ -116,7 +116,12 @@ body {
     padding: 5px;
     margin-left: 830px;
     margin-right: 50px;
-    margin-top: 220px;    
+    margin-top: 220px; 
+    
+}
+.mundo ul li
+{
+    list-style: none;
 }
 .nave ul li {
     color: blue;
