@@ -1,1 +1,156 @@
 /* Inserta tu código aqui */
+
+header {
+    background-color: #333333;
+    color: white;
+}
+.contenedor
+{
+    width: 940px;
+    margin: 0 auto;
+    
+}
+header img{
+    width: 80px;
+}
+header .lis-menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+header .lis-menu li{
+    display: inline-block;
+    margin-right: 5px
+}
+header .lis-menu li a{
+    color: white;
+    display: block;
+    margin-top: 40px;
+    text-decoration: none;
+    margin-left: 3px;
+    font-size: 15px
+    
+}
+
+}
+/* lis episodio */
+.lis-episodio {
+    
+}
+.contenedor1{
+    background-color: rgba(193, 193, 193, 0.76);
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.row{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+    
+.lis-episodio .lis-episodio img{
+    width: 200px;
+    position: relative;
+    border: 1px solid white;
+    padding: 2px;
+    margin-top: 15px;
+}
+.lis-episodio .lis-episodio p {
+
+    text-align: center;
+    color: blue;
+}
+.lis-episodio h1 {
+    font-size: 20px;
+    margin-left: 28px;
+}
+.lis-episodio a{
+    font-size: 16px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+/* FONDO de las imagenes */
+.lis-contenido{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.lis-contenido li {
+    display: inline-block;
+    width: 100px;
+    margin: 0 10px 10px 0;
+    vertical-align: top;
+}
+.lis-contenido li img{
+    width: 100px;
+    border: 2px solid #333;
+    padding: 4px;
+    margin-top: 20px;
+        
+}
+.lis-contenido li p {
+    text-align: center;
+    color: blue;
+}
+.nave h3 {
+    border-bottom: 1px solid #333;
+    margin: 10px 0;
+}
+.nave ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nave ul a {
+    text-decoration: none;
+}
+body {
+    font-family: sans-serif;
+}
+.nave ul li img {
+    width: 20px;
+}
+.mundo p{
+    padding: 5px;
+    color: blue;
+    text-align: center;
+    
+    margin left: 40px;
+    margin-right: 50px;
+}
+.nave ul li {
+    color: blue;
+
+}
+.final{
+    background-color: #333333;
+    height: 150px;
+    text-align: center;
+}
+.final h4 {
+    color: white;
+    margin: 15px;
+    padding: 2px;
+    font-size: 13px;
+    font-family: arial;
+    text-align: justify;
+
+        
+}
+.final ul li{
+    display: inline-block;
+    color: white;
+    
+    margin-left: 30px;
+    font-size: 12px;
+    text-align: center;
+}
+.final p {
+    text-align: center;
+    font-size: 9px;
+    padding-top: 26px;
+    color: white;
+}
